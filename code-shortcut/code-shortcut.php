@@ -21,7 +21,7 @@ function escapeCode($content) {
 
 
 function closeCodeTag() {
-	return "</div>";
+	return "</pre>";
 }
 
 // [code]some code goes here[/code] -> to nicely formatted code
